@@ -1,0 +1,1 @@
+console.log("Type your own js here!");
